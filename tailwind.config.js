@@ -5,17 +5,17 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'sanFrancisco': "url('../public/img/sanfrancisco.jpg')",
-        'atardecer': "url('../public/img/atardecer.jpg')",
-        'bali': "url('../public/img/bali.jpg')",
-        'miami': "url('../public/img/miami.jpg')",
-        'newyork': "url('../public/img/newyork.jpg')",
-        'norway': "url('../public/img/norway.jpg')",
-        'sala': "url('../public/img/sala.jpg')",
-        'seattlr': "url('../public/img/seattlr.jpg')",
-        'suiza': "url('../public/img/suiza.jpg')",
-        'sanfranciscodesktop': "url('../public/img/sanfranciscodesktop.jpeg')",
-        'yosemite': "url('../public/img/yosemite.jpg')"
+        'sanFrancisco': "url('../src/img/sanfrancisco.jpg')",
+        'atardecer': "url('../src/img/atardecer.jpg')",
+        'bali': "url('../src/img/bali.jpg')",
+        'miami': "url('../src/img/miami.jpg')",
+        'newyork': "url('../src/img/newyork.jpg')",
+        'norway': "url('../src/img/norway.jpg')",
+        'sala': "url('../src/img/sala.jpg')",
+        'seattlr': "url('../src/img/seattlr.jpg')",
+        'suiza': "url('../src/img/suiza.jpg')",
+        'sanfranciscodesktop': "url('../src/img/sanfranciscodesktop.jpeg')",
+        'yosemite': "url('../src/img/yosemite.jpg')"
       },
       backgroundColor: theme => ({
         ...theme('colors'),

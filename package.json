@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "gh-pages": "^6.1.1",
     "tailwindcss": "^3.4.4"
   },
   "name": "travel-web",
@@ -98,7 +99,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "tw:build": "tailwind -i ./src/input.css -o ./src/output.css",
-    "tw:prod": "npx tailwindcss -i ./src/input.css -o ./src/output.css --minify"
+    "tw:prod": "npx tailwindcss -i ./src/input.css -o ./src/output.css --minify",
+    "tw:deploy": "gh-pages -d build"
   },
   "repository": {
     "type": "git",

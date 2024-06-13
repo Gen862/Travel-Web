@@ -779,43 +779,43 @@ video {
 }
 
 .bg-atardecer {
-  background-image: url('../public/img/atardecer.jpg');
+  background-image: url('../src/img/atardecer.jpg');
 }
 
 .bg-bali {
-  background-image: url('../public/img/bali.jpg');
+  background-image: url('../src/img/bali.jpg');
 }
 
 .bg-miami {
-  background-image: url('../public/img/miami.jpg');
+  background-image: url('../src/img/miami.jpg');
 }
 
 .bg-newyork {
-  background-image: url('../public/img/newyork.jpg');
+  background-image: url('../src/img/newyork.jpg');
 }
 
 .bg-norway {
-  background-image: url('../public/img/norway.jpg');
+  background-image: url('../src/img/norway.jpg');
 }
 
 .bg-sala {
-  background-image: url('../public/img/sala.jpg');
+  background-image: url('../src/img/sala.jpg');
 }
 
 .bg-sanfranciscodesktop {
-  background-image: url('../public/img/sanfranciscodesktop.jpeg');
+  background-image: url('../src/img/sanfranciscodesktop.jpeg');
 }
 
 .bg-seattlr {
-  background-image: url('../public/img/seattlr.jpg');
+  background-image: url('../src/img/seattlr.jpg');
 }
 
 .bg-suiza {
-  background-image: url('../public/img/suiza.jpg');
+  background-image: url('../src/img/suiza.jpg');
 }
 
 .bg-yosemite {
-  background-image: url('../public/img/yosemite.jpg');
+  background-image: url('../src/img/yosemite.jpg');
 }
 
 .bg-cover {
